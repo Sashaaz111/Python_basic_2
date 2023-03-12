@@ -6,6 +6,5 @@ def min_del(n):
             break
         i += 1
     print('Наименьший делитель, отличный от еденицы:', ans)
-
 n = int(input('Введите число: '))
 min_del(n)
